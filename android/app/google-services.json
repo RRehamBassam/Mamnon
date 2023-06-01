@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45551770471",
+    "project_id": "mamnon-74c2a",
+    "storage_bucket": "mamnon-74c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45551770471:android:97f20e5e861974e066adc2",
+        "android_client_info": {
+          "package_name": "com.mamnon.mamnon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45551770471-uuhhuokqqclkocqdj72rnfqpivumnheh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbKUiL8m-RnmFS-iLLMq6dcK0qtS5gMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45551770471-uuhhuokqqclkocqdj72rnfqpivumnheh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
